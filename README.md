@@ -30,6 +30,16 @@ Projekt powstał w celu poznania praktycznych zastosowań widzenia komputerowego
 - NumPy
 - Pillow
 
+## Podgląd działania
+
+Poniżej znajdują się przykłady obiektów rozpoznawanych przez program.
+
+### Butelka
+![Wykrywanie butelki](images/butelka.png)
+
+### Pilot
+![Wykrywanie pilota](images/pilot.png)
+
 ## Wymagania
 
 - Python
